@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/dvazdev"><img src="https://api.daily.dev/devcards/5cd88109ed2d42b8869e89fafed55de5.png?r=he9" width="400" alt="Daniel Vazquez's Dev Card"/></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/dvazjr/dvazjr/blob/master/devcard.svg" width="400" alt="Daniel Vazquez's Dev Card"/></a>
+<a href="https://app.daily.dev/dvazdev"><img src="https://github.com/dvazjr/dvazjr/blob/master/devcard.svg" width="400" alt="Daniel Vazquez's Dev Card"/></a>
