@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SQL & Python For Data Analytics
 - 🤔 I’m looking for Friends in Tech
 - ⚡ Fun fact: I can fly Helicopters!
+  
 <a href="https://app.daily.dev/dvazdev"><img src="https://api.daily.dev/devcards/5cd88109ed2d42b8869e89fafed55de5.png?r=he9" width="400" alt="Daniel Vazquez's Dev Card"/></a>
